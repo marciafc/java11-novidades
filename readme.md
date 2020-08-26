@@ -1,10 +1,25 @@
-# Algumas das novidades do Java 11
+# Java
+
+[Dica](https://www.linkedin.com/feed/update/urn:li:activity:6704060323135025152/) do [Mario Rezende](https://www.linkedin.com/in/mariorez)
+
+**JAVA Version Almanac**
+
+🔗 [Java Almanac](https://javaalmanac.io)
+
+🔗 [Almanac](https://lnkd.in/dWgBAeG)
+
+## Algumas das novidades do Java 11
+
+[Java Almanac - JDK 11](https://javaalmanac.io/jdk/11/)
+
+[Almanac - JDK 11](https://foojay.io/almanac/jdk-11/)
 
 Exemplos baseados nos tutoriais:
 
   - [Java 11: funcionalidades e principais novidades](https://www.zup.com.br/blog/java-11-principais-novidades)
   
   - [As boas partes do Java 11](https://www.devmedia.com.br/as-boas-partes-do-java-11/40193)
+
 
 ## javac + java => java 
 
